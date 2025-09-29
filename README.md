@@ -18,4 +18,4 @@ Key Insights
 
  Deliverables
 - Titanic_EDA.ipynb → Jupyter Notebook with full analysis
-- Titanic_EDA_Report.pdf → Summary report of findings
+- Titanic_EDA_.pdf → Summary report of findings
